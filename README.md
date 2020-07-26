@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 😄
+
+![bi](https://raw.githubusercontent.com/linux-china/linux-china/master/banner.png)
 
 <!--
 **xuyue531/xuyue531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
