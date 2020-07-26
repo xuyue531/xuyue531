@@ -1,4 +1,4 @@
-### Hi there 👋 😄
+### Hi there 👋 😄 🇨🇳
 
 ![bi](https://raw.githubusercontent.com/linux-china/linux-china/master/banner.png)
 
